@@ -1,0 +1,2 @@
+# Circle
+Simplifies UIImageView animations
