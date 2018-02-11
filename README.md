@@ -7,10 +7,10 @@
 		<img src="https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat">
 	</a>
 	<a href="https://cocoapods.org">
-		<img src="https://img.shields.io/cocoapods/v/Circle.svg">
+		<img src="https://img.shields.io/cocoapods/v/CirclePlayer.svg">
 	</a>
 	<a href="https://cocoapods.org">
-		<img src="https://img.shields.io/cocoapods/dt/Circle.svg">
+		<img src="https://img.shields.io/cocoapods/dt/CirclePlayer.svg">
 	</a>
 	<a href="https://tldrlegal.com/license/mit-license">
 		<img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat">
