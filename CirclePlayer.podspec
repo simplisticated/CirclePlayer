@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "Circle"
+  s.name         = "CirclePlayer"
   s.version      = "1.0"
   s.summary      = "Simplifies UIImageView animations"
 
