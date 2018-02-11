@@ -27,7 +27,7 @@ Simplifies `UIImageView` animations via set of classes and extensions.
 
 or
 
-- Use `Circle` cocoapod
+- Use `CirclePlayer` cocoapod
 
 ## Requirements
 
