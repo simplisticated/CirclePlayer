@@ -77,8 +77,8 @@ imageView.crl
     .prefix("image_")
     .from(1)
     .to(180)
-    .duration(1)
-    .repeatCount(3)
+    .duration(3)
+    .repeatCount(1000)
     .start()
 ```
 
