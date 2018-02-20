@@ -28,8 +28,8 @@ Pod::Spec.new do |s|
   Simplifies UIImageView animations via set of classes and extensions.
                    DESC
 
-  s.homepage     = "https://github.com/igormatyushkin014/Circle"
-  s.screenshots  = "https://github.com/igormatyushkin014/Circle/raw/master/Images/logo_2048_2048.png"
+  s.homepage     = "https://github.com/igormatyushkin014/CirclePlayer"
+  s.screenshots  = "https://github.com/igormatyushkin014/CirclePlayer/raw/master/Images/logo_2048_2048.png"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -56,7 +56,7 @@ Pod::Spec.new do |s|
   s.author             = { "Igor Matyushkin" => "igormatyushkin014@gmail.com" }
   #s.author    = "Igor Matyushkin"
   # s.authors            = { "Igor Matyushkin" => "igormatyushkin014@gmail.com" }
-  s.social_media_url   = "https://twitter.com/imatyushkin1"
+  # s.social_media_url   = "https://twitter.com/imatyushkin1"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
